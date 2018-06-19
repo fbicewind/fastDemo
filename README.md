@@ -3,7 +3,7 @@
 ### Spring Boot
 Spring + Spring Data JPA + Spring MVC
 ### Spring Security
-权限控制
+权限控制，sso登陆
 ### Ehcache + Redis
 ehcache本地缓存 + redis分布式缓存
 ### ActiveMQ / RabbitMQ
